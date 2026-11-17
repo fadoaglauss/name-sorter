@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="NameSorter.Application/NameSorter.Application.csproj" />
+  <Project Path="NameSorter.Console/NameSorter.Console.csproj" />
+  <Project Path="NameSorter.Models/NameSorter.Models.csproj" />
+  <Project Path="NameSorter.Service/NameSorter.Services.csproj" />
+  <Project Path="NameSorter.Tests/NameSorter.Tests.csproj" />
+</Solution>
